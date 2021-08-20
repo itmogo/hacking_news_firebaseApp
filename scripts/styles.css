@@ -6,7 +6,5 @@
 body{
     background-color: rgba(182, 185, 183, 0.404);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: url(/img/black-wallpaper.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    
 }

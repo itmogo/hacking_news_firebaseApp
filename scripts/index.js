@@ -58,7 +58,7 @@ const setupGuides = (data) => {
     guideList.innerHTML = html;
   } else {
     guideList.innerHTML =
-      '<h5 class="center-align blogs" style=" margin-top: 250px"        >Register to View Most Hacking News </h5>';
+      '<h5 class="center-align blogs" style=" margin-top: 250px" >Register to View Most Hacking News </h5>';
   }
 };
 
